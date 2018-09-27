@@ -9,7 +9,7 @@
 	},
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
-	"appid": "touristappid",
+	"appid": "wxb3f83f895ed1e866",
 	"projectname": "cloud-screenshot",
 	"condition": {
 		"search": {
